@@ -1,10 +1,10 @@
 # Probabilistic Number Theory
 
-Where randomness quietly sneaks into the integers.
+Where randomness finds its way into the integers.
 
 ## Overview
 
-This section is about probabilistic models for arithmetic functions and the ways random behavior emerges from deterministic number-theoretic structures.
+This section is about probabilistic models for arithmetic functions and the ways random behavior can emerge from completely deterministic number-theoretic structures.
 
 ## Topics I’m learning
 
@@ -17,14 +17,14 @@ This section is about probabilistic models for arithmetic functions and the ways
 
 ## Notes
 
-I will use this page to organize definitions, model examples, and comparisons between genuine arithmetic objects and their random analogues.
+I’ll use this page to organize definitions, model examples, and side-by-side comparisons between arithmetic objects and their random analogues.
 
 ## Papers and references
 
-References will be grouped by theme: classical probabilistic number theory, random multiplicative functions, and modern distributional questions.
+References will be grouped by theme, including classical probabilistic number theory, random multiplicative functions, and modern distributional questions.
 
-## Questions I’m thinking about
+## Questions on my mind
 
 - When does a probabilistic model predict the arithmetic truth accurately?
-- Which dependencies between primes matter, and which can be ignored?
-- How do moments encode the difference between typical and exceptional behavior?
+- Which dependencies between primes really matter, and which ones can we safely ignore?
+- How do moments reveal the difference between typical and exceptional behavior?
