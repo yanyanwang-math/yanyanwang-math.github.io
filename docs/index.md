@@ -14,7 +14,7 @@ hide:
       <h1>A little corner for big ideas <span>🌿</span></h1>
 
       <p class="fresh-intro">
-        Hi, I’m Yanyan. This is my little corner of mathematics,
+        Hi, I’m Yanyan. This is my little corner of mathematics —
         a place to learn, wonder, and follow interesting ideas wherever they lead.
       </p>
 
@@ -54,31 +54,15 @@ hide:
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
-      <small>Primes, L-functions, and complex analysis</small>
-    </a>
-
-    <a class="fresh-card"
-       style="--card:#a475e8; --soft:#f6efff;"
-       href="probabilistic-number-theory/">
-      <span class="fresh-icon">🎲</span>
-      <strong>Probabilistic Number Theory</strong>
-      <small>Randomness hiding inside the integers</small>
+      <small>Primes, L-functions, and analytic methods</small>
     </a>
 
     <a class="fresh-card"
        style="--card:#28b889; --soft:#edfff8;"
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
-      <strong>Automorphic Forms</strong>
-      <small>Where symmetry begins to speak globally</small>
-    </a>
-
-    <a class="fresh-card"
-       style="--card:#f0a72f; --soft:#fff9e8;"
-       href="representation-theory/">
-      <span class="fresh-icon">ρ</span>
-      <strong>Representation Theory</strong>
-      <small>Groups revealed through the ways they act</small>
+      <strong>Automorphic Forms &amp; Spectral Theory</strong>
+      <small>Symmetry, spectra, and arithmetic</small>
     </a>
 
     <a class="fresh-card"
@@ -86,15 +70,63 @@ hide:
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
-      <small>Orbits, measures, and unexpected rigidity</small>
+      <small>Orbits, measures, and rigidity</small>
     </a>
 
     <a class="fresh-card"
-       style="--card:#ec6f9f; --soft:#fff0f7;"
-       href="papers/">
+       style="--card:#a475e8; --soft:#f6efff;"
+       href="probabilistic-number-theory/">
+      <span class="fresh-icon">ℙ</span>
+      <strong>Probability in Number Theory</strong>
+      <small>Randomness, distributions, and typical behavior</small>
+    </a>
+
+    <a class="fresh-card"
+       style="--card:#c58a9f; --soft:#fff3f7;"
+       href="algebraic-number-theory/">
+      <span class="fresh-icon">ℚ</span>
+      <strong>Algebraic Number Theory</strong>
+      <small>Fields, Galois theory, and arithmetic structure</small>
+    </a>
+
+    <a class="fresh-card"
+       style="--card:#f0a72f; --soft:#fff9e8;"
+       href="representation-theory/">
+      <span class="fresh-icon">ρ</span>
+      <strong>Representation Theory</strong>
+      <small>Groups, actions, and hidden structure</small>
+    </a>
+
+  </div>
+
+  <h2 class="fresh-section-title">
+    Reading, Papers &amp; Seminars <span>✦</span>
+  </h2>
+
+  <div class="fresh-grid">
+
+    <a class="fresh-card"
+       style="--card:#d7a6b5; --soft:#fff5f8;"
+       href="papers/paper-notes/">
       <span class="fresh-icon">✎</span>
-      <strong>Paper and Seminar Notes</strong>
-      <small>Papers, talks, and wandering questions</small>
+      <strong>Paper Notes</strong>
+      <small>Papers I’m reading, reconstructing, and trying to understand</small>
+    </a>
+
+    <a class="fresh-card"
+       style="--card:#b39cc8; --soft:#f8f4fc;"
+       href="papers/seminar-notes/">
+      <span class="fresh-icon">✦</span>
+      <strong>Seminar Notes</strong>
+      <small>Ideas, questions, and references collected from talks</small>
+    </a>
+
+    <a class="fresh-card"
+       style="--card:#d6b294; --soft:#fffaf3;"
+       href="papers/expository-notes/">
+      <span class="fresh-icon">∞</span>
+      <strong>Expository Notes</strong>
+      <small>Longer explanations written in my own way</small>
     </a>
 
   </div>
