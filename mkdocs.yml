@@ -1,0 +1,57 @@
+site_name: Math with Yanyan!
+site_author: Yanyan Wang
+site_url: https://yanyanwang-math.github.io/
+
+site_description: >-
+  Where ideas bounce, proofs misbehave, and curiosity runs wild.
+  Keep learning. Keep growing. Keep finding new ways to see the world.
+
+theme:
+  name: material
+  language: en
+
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Algebraic Number Theory: number-theory/index.md
+  - Algebraic Geometry: algebraic-geometry/index.md
+  - Automorphic Forms: automorphic-forms/index.md
+  - Paper Notes: papers/index.md
+  - About Me: about.md
