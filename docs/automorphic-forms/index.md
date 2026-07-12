@@ -1,10 +1,10 @@
 # Automorphic Forms
 
-Where symmetry becomes analysis and local information begins to speak globally.
+Where symmetry turns into analysis and local data starts telling a global story.
 
 ## Overview
 
-This section collects notes on automorphic forms, automorphic representations, spectral decomposition, and the arithmetic information encoded by Hecke operators and \(L\)-functions.
+This section collects notes on automorphic forms, automorphic representations, spectral decomposition, and the arithmetic information carried by Hecke operators and \(L\)-functions.
 
 ## Topics I’m learning
 
@@ -18,14 +18,14 @@ This section collects notes on automorphic forms, automorphic representations, s
 
 ## Notes
 
-I am especially interested in explanations that connect the classical function-theoretic picture with the representation-theoretic one.
+I’m especially interested in explanations that connect the classical function-theoretic picture with the representation-theoretic one.
 
 ## Papers and references
 
-Paper notes will focus on spectral arguments, Fourier expansions, period integrals, and arithmetic applications.
+My paper notes here will focus on spectral arguments, Fourier expansions, period integrals, and arithmetic applications.
 
-## Questions I’m thinking about
+## Questions on my mind
 
-- How does the spectral decomposition organize an arithmetic proof?
-- What information is visible locally, and what only appears globally?
+- How does spectral decomposition organize an arithmetic proof?
+- What can be seen locally, and what only appears after everything is put together globally?
 - How do Hecke eigenvalues control equidistribution or decay?
