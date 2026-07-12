@@ -14,7 +14,7 @@ hide:
       <h1>A little corner for big ideas <span>🌿</span></h1>
 
       <p class="fresh-intro">
-        Hi, I’m Yanyan. This is my little corner of mathematics —
+        Hi, I’m Yanyan. This is my little corner of mathematics,
         a place to learn, wonder, and follow interesting ideas wherever they lead.
       </p>
 
