@@ -11,7 +11,7 @@ theme:
   language: en
 
   icon:
-    logo: material/crown
+  logo: material/sprout
 
   palette:
     - scheme: default
@@ -39,6 +39,7 @@ plugins:
   - search
 
 markdown_extensions:
+  - meta
   - pymdownx.arithmatex:
       generic: true
   - admonition
@@ -46,10 +47,9 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
-      
+
 extra_css:
-  - stylesheets/extra.css
-  - stylesheets/macaron.css
+  - stylesheets/fresh.css
   
 extra_javascript:
   - javascripts/mathjax.js
