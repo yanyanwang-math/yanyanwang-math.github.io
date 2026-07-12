@@ -1,10 +1,10 @@
 # Representation Theory
 
-Where groups reveal themselves through the ways they act.
+Where groups show you who they are by the way they act.
 
 ## Overview
 
-This section collects the representation-theoretic language that appears throughout number theory, harmonic analysis, and dynamics.
+This section collects the representation-theoretic language that keeps showing up in number theory, harmonic analysis, and dynamics.
 
 ## Topics I’m learning
 
@@ -18,14 +18,14 @@ This section collects the representation-theoretic language that appears through
 
 ## Notes
 
-The emphasis will be on examples and on explaining why representation theory is the natural language for symmetry.
+The emphasis here will be on concrete examples and on understanding why representation theory is such a natural language for symmetry.
 
 ## Papers and references
 
-References will be grouped around foundational constructions and their use in automorphic forms and homogeneous dynamics.
+References will be grouped around foundational constructions and the ways they show up in automorphic forms and homogeneous dynamics.
 
-## Questions I’m thinking about
+## Questions on my mind
 
-- Which structure becomes simpler after passing from a group to its representations?
-- How do local representations assemble into a global automorphic object?
+- What becomes simpler when we pass from a group to its representations?
+- How do local representations fit together into a global automorphic object?
 - What is the geometric meaning of irreducibility and multiplicity?
