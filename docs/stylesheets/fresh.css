@@ -753,3 +753,37 @@ input {
     grid-template-columns: 1fr;
   }
 }
+
+/* Formula caption */
+.formula-kicker {
+  margin-bottom: 0.45rem;
+  color: #a3778d;
+  font-family: "Fredoka", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.formula-kicker span {
+  color: #b8a4c8;
+}
+
+/* About page dark-mode polish */
+[data-md-color-scheme="slate"] .about-hero,
+[data-md-color-scheme="slate"] .about-panel,
+[data-md-color-scheme="slate"] .about-card,
+[data-md-color-scheme="slate"] .about-quote {
+  color: #efe7ed;
+  background: rgba(58, 48, 57, 0.9);
+  border-color: rgba(216, 201, 229, 0.15);
+}
+
+[data-md-color-scheme="slate"] .about-panel-item span,
+[data-md-color-scheme="slate"] .about-quote {
+  color: #d8cdd5;
+}
+
+[data-md-color-scheme="slate"] .formula-kicker {
+  color: #e6bfd0;
+}
