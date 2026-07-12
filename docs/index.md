@@ -77,7 +77,7 @@ hide:
        style="--card:#b39cc8; --soft:#f8f4fc;"
        href="probabilistic-number-theory/">
       <span class="fresh-icon">ℙ</span>
-      <strong>Probability in Number Theory</strong>
+      <strong>Probabilistic Number Theory</strong>
       <small>Randomness, distributions, and typical behavior</small>
     </a>
 
