@@ -51,7 +51,7 @@ hide:
   <div class="fresh-grid">
 
     <a class="fresh-card"
-       style="--card:#ff6b6b; --soft:#fff0ee;"
+       style="--card:#d97870; --soft:#fff2f0;"
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
@@ -59,7 +59,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#a475e8; --soft:#f6efff;"
+       style="--card:#9f91b9; --soft:#f6f2fa;"
        href="probabilistic-number-theory/">
       <span class="fresh-icon">🎲</span>
       <strong>Probabilistic Number Theory</strong>
@@ -67,7 +67,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#28b889; --soft:#edfff8;"
+       style="--card:#70a98f; --soft:#f0f8f4;"
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
       <strong>Automorphic Forms</strong>
@@ -75,7 +75,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#f0a72f; --soft:#fff9e8;"
+       style="--card:#d9a05f; --soft:#fff7eb;"
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
@@ -83,7 +83,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#399ed8; --soft:#edf8ff;"
+       style="--card:#7aaec2; --soft:#f0f7fa;"
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
@@ -91,7 +91,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#ec6f9f; --soft:#fff0f7;"
+       style="--card:#c9819b; --soft:#fff2f6;"
        href="papers/">
       <span class="fresh-icon">✎</span>
       <strong>Paper and Seminar Notes</strong>
