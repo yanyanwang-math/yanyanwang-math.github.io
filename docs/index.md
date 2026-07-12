@@ -11,7 +11,7 @@ Some days everything clicks.
 Some days I get delightfully lost.
 Either way, curiosity wins.
 
-*Keep learning. Keep growing. Keep seeing more of the world.*
+*Keep learning. Keep growing. Keep finding new ways to see the world.*
 
 ## What I’m exploring
 
@@ -29,5 +29,5 @@ L(\beta_\chi,\chi)=0,
 \qquad
 \beta_\chi=1-\delta_\chi,
 \qquad
-0<\delta_\chi\ll\frac{1}{\log q}
+0<\delta_\chi\ll\frac{1}{\log q}.
 \]
