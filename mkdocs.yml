@@ -11,7 +11,7 @@ theme:
   language: en
   
   icon:
-    logo: material/telescope
+  logo: material/crown
 
   palette:
     - scheme: default
@@ -48,7 +48,8 @@ markdown_extensions:
       permalink: true
       
 extra_css:
-  - stylesheets/cosmic.css
+  - stylesheets/extra.css
+  - stylesheets/macaron.css
   
 extra_javascript:
   - javascripts/mathjax.js
