@@ -11,7 +11,7 @@ theme:
   language: en
 
   icon:
-  logo: material/sprout
+   logo: material/sprout
 
   palette:
     - scheme: default
