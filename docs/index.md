@@ -14,22 +14,22 @@ hide:
       <h1>Hi, I’m Yanyan. <span>✦</span></h1>
 
       <p class="fresh-intro">
-        Welcome to my little corner for big ideas — a place to learn,
-        wonder, and follow interesting mathematics wherever it leads.
+        Welcome to my little corner for big ideas, a place to learn, wonder,
+        get curious, and follow interesting ideas wherever they go.
       </p>
 
       <p>
-        Here I collect the mathematics I’ve learned, the proofs I’ve chased,
-        the papers I’ve explored, and the questions that are still keeping me curious.
+        Here, I collect the math I’m learning, the proofs I’m chasing,
+        the papers I’m reading, and the questions I can’t stop thinking about.
       </p>
 
       <p>
-        Some days everything clicks. Some days I wander around for a while.
-        Either way, there is always something new to discover.
+        Some days everything clicks. Some days I get happily lost.
+        Either way, there’s always something new to discover.
       </p>
 
       <div class="fresh-mantra">
-        Stay curious · Keep learning · See the world in new ways
+        Stay curious · Keep learning · See the world a little differently
       </div>
     </div>
 
@@ -54,7 +54,7 @@ hide:
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
-      <small>Primes, L-functions, and analytic methods</small>
+      <small>Primes, L-functions, and the analytic tools behind them</small>
     </a>
 
     <a class="fresh-card"
@@ -62,7 +62,7 @@ hide:
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
       <strong>Automorphic Forms</strong>
-      <small>Symmetry, spectra, and arithmetic</small>
+      <small>Symmetry, spectra, and arithmetic in conversation</small>
     </a>
 
     <a class="fresh-card"
@@ -70,7 +70,7 @@ hide:
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
-      <small>Orbits, measures, and rigidity</small>
+      <small>Orbits, measures, and surprising rigidity</small>
     </a>
 
     <a class="fresh-card"
@@ -78,7 +78,7 @@ hide:
        href="probabilistic-number-theory/">
       <span class="fresh-icon">ℙ</span>
       <strong>Probabilistic Number Theory</strong>
-      <small>Randomness, distributions, and typical behavior</small>
+      <small>Randomness, distributions, and what usually happens</small>
     </a>
 
     <a class="fresh-card"
@@ -86,7 +86,7 @@ hide:
        href="algebraic-number-theory/">
       <span class="fresh-icon">ℚ</span>
       <strong>Algebraic Number Theory</strong>
-      <small>Fields, Galois theory, and arithmetic structure</small>
+      <small>Number fields, Galois theory, and arithmetic structure</small>
     </a>
 
     <a class="fresh-card"
@@ -94,7 +94,7 @@ hide:
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
-      <small>Groups, actions, and hidden structure</small>
+      <small>Groups, actions, and the structure hiding underneath</small>
     </a>
 
   </div>
@@ -110,7 +110,7 @@ hide:
        href="papers/paper-notes/">
       <span class="fresh-icon">✎</span>
       <strong>Paper Notes</strong>
-      <small>Papers I’m reading, reconstructing, and trying to understand</small>
+      <small>Papers I’m reading, unpacking, and trying to understand</small>
     </a>
 
     <a class="fresh-card"
@@ -118,7 +118,7 @@ hide:
        href="papers/seminar-notes/">
       <span class="fresh-icon">✦</span>
       <strong>Seminar Notes</strong>
-      <small>Ideas, questions, and references collected from talks</small>
+      <small>Ideas, questions, and references I pick up from talks</small>
     </a>
 
     <a class="fresh-card"
@@ -126,13 +126,13 @@ hide:
        href="papers/expository-notes/">
       <span class="fresh-icon">∞</span>
       <strong>Expository Notes</strong>
-      <small>Longer explanations written in my own way</small>
+      <small>Longer explanations, worked out in my own way</small>
     </a>
 
   </div>
 
   <div class="fresh-formula">
-    <div class="formula-kicker">A formula currently on my mind <span>✦</span></div>
+    <div class="formula-kicker">A formula I’ve been thinking about lately <span>✦</span></div>
     <div class="arithmatex">
     \[
     L(\beta_\chi,\chi)=0,
