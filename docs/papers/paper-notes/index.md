@@ -1,7 +1,7 @@
 # Paper Notes
 
-Papers I am reading, reconstructing, and trying to understand.
+Papers I’m reading, unpacking, and trying to understand one step at a time.
 
 !!! note
 
-    Paper notes are growing here. 🌱
+    This section is still growing. 🌱
