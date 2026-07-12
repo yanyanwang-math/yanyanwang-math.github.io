@@ -1,4 +1,4 @@
-# Probability in Number Theory
+# Probabilistic Number Theory
 
 Where randomness quietly sneaks into the integers.
 
