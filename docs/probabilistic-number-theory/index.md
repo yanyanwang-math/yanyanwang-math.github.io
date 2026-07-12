@@ -1,30 +1,30 @@
 # Probabilistic Number Theory
 
-Where randomness finds its way into the integers.
+Where deterministic integers start acting surprisingly random.
 
 ## Overview
 
-This section is about probabilistic models for arithmetic functions and the ways random behavior can emerge from completely deterministic number-theoretic structures.
+This section is about the probabilistic side of number theory. I am interested in how random models can capture the typical behavior of arithmetic functions, and why deterministic objects often produce patterns that look statistical.
 
-## Topics I’m learning
+## What I’m learning
 
 - Additive arithmetic functions
-- Erdős–Kac type phenomena
+- Erdős Kac type phenomena
 - Random multiplicative functions
-- Distribution of prime factors
+- The distribution of prime factors
 - Moments, concentration, and limiting distributions
 - Probabilistic heuristics in arithmetic
 
 ## Notes
 
-I’ll use this page to organize definitions, model examples, and side-by-side comparisons between arithmetic objects and their random analogues.
+I use this page to organize definitions, examples, and comparisons between arithmetic objects and the random models built to understand them.
 
 ## Papers and references
 
-References will be grouped by theme, including classical probabilistic number theory, random multiplicative functions, and modern distributional questions.
+References will be grouped by theme, including classical probabilistic number theory, random multiplicative functions, and modern questions about distribution and typical behavior.
 
-## Questions on my mind
+## Questions I keep coming back to
 
-- When does a probabilistic model predict the arithmetic truth accurately?
-- Which dependencies between primes really matter, and which ones can we safely ignore?
-- How do moments reveal the difference between typical and exceptional behavior?
+- When does a probabilistic model predict the arithmetic truth well?
+- Which dependencies between primes really matter?
+- How do moments separate typical behavior from exceptional behavior?
