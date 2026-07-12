@@ -16,8 +16,6 @@ I’ve explored, and the questions I’m still thinking about.
 - Homogeneous Dynamics
 - Paper and Seminar Notes
 
-## A little mystery from analytic number theory
-
 \[
 \boxed{
 L(\beta_\chi,\chi)=0,
@@ -27,9 +25,3 @@ L(\beta_\chi,\chi)=0,
 0<\delta_\chi\ll\frac{1}{\log q}
 }
 \]
-
-*A zero no one has ever seen, yet no proof can quite escape.*
-
-!!! quote
-
-    Keep learning. Keep growing. Keep finding new ways to see the world.
