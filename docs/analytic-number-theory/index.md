@@ -1,10 +1,10 @@
 # Analytic Number Theory
 
-Where primes, \(L\)-functions, and complex analysis keep one another busy.
+Where primes, \(L\)-functions, and complex analysis keep each other busy.
 
 ## Overview
 
-This section collects notes on analytic methods for arithmetic questions, with an emphasis on how complex analysis, harmonic analysis, and estimates reveal the distribution of primes and other arithmetic objects.
+This is where I collect notes on analytic approaches to arithmetic questions, especially the ways complex analysis, harmonic analysis, and sharp estimates help us understand primes and other arithmetic objects.
 
 ## Topics I’m learning
 
@@ -18,14 +18,14 @@ This section collects notes on analytic methods for arithmetic questions, with a
 
 ## Notes
 
-Short explanations, proof sketches, and longer reconstructions will be linked here as they are added.
+I’ll link short explanations, proof sketches, and longer step-by-step reconstructions here as I add them.
 
 ## Papers and references
 
-This area will collect papers, books, and lecture notes that help connect local calculations with the larger analytic picture.
+This page will also collect books, papers, and lecture notes that connect local calculations to the larger analytic story.
 
-## Questions I’m thinking about
+## Questions on my mind
 
-- How does a zero-free region turn into an effective statement about primes?
+- How does a zero-free region become a concrete statement about primes?
 - Where do spectral methods enter arithmetic estimates?
-- Which parts of a proof are genuinely analytic, and which are arithmetic in disguise?
+- Which parts of a proof are truly analytic, and which are arithmetic in disguise?
