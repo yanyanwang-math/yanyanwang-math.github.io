@@ -1,31 +1,31 @@
 # Automorphic Forms
 
-Where symmetry turns into analysis and local data starts telling a global story.
+Where symmetry, analysis, and arithmetic meet.
 
 ## Overview
 
-This section collects notes on automorphic forms, automorphic representations, spectral decomposition, and the arithmetic information carried by Hecke operators and \(L\)-functions.
+This section brings together automorphic forms, automorphic representations, spectral decomposition, Hecke operators, and \(L\)-functions. I am especially drawn to the way local information can fit together into a global picture.
 
-## Topics I’m learning
+## What I’m learning
 
-- Modular and Maass forms
+- Modular forms and Maass forms
 - Hecke operators and eigenvalues
 - Adèles and automorphic representations
 - Eisenstein series and the continuous spectrum
 - Cusp forms and the discrete spectrum
-- Rankin–Selberg convolutions
-- Theta series, CM forms, and Langlands-type correspondences
+- Rankin Selberg convolutions
+- Theta series, CM forms, and correspondences related to the Langlands program
 
 ## Notes
 
-I’m especially interested in explanations that connect the classical function-theoretic picture with the representation-theoretic one.
+I want these notes to move naturally between the classical picture of functions and the viewpoint of representation theory behind them. Seeing both sides usually makes the ideas much clearer.
 
 ## Papers and references
 
-My paper notes here will focus on spectral arguments, Fourier expansions, period integrals, and arithmetic applications.
+My reading notes here will focus on spectral arguments, Fourier expansions, period integrals, and arithmetic applications.
 
-## Questions on my mind
+## Questions I keep coming back to
 
 - How does spectral decomposition organize an arithmetic proof?
-- What can be seen locally, and what only appears after everything is put together globally?
-- How do Hecke eigenvalues control equidistribution or decay?
+- What can be understood locally, and what only appears globally?
+- How do Hecke eigenvalues control equidistribution and decay?
