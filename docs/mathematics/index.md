@@ -13,4 +13,4 @@ This is my growing map of the math I am learning, organizing, and coming back to
 
 !!! note
 
-    These notes are always growing. Some pages are polished, while others are still full of questions, rough ideas, and things I am working out.
+    These notes are always growing.
