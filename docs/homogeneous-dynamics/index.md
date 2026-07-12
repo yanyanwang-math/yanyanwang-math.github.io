@@ -1,31 +1,31 @@
 # Homogeneous Dynamics
 
-Where orbits move, measures settle, and rigidity shows up.
+Where orbits move, measures spread out, and rigidity appears.
 
 ## Overview
 
-This is where I collect notes on group actions on homogeneous spaces, unipotent flows, invariant measures, equidistribution, and rigidity phenomena.
+This is where I collect notes on group actions on homogeneous spaces, unipotent flows, invariant measures, equidistribution, and rigidity. I like the way this subject connects geometric motion with spectral ideas and arithmetic structure.
 
-## Topics I’m learning
+## What I’m learning
 
 - Homogeneous spaces and lattice quotients
-- Geodesic and horocycle flows
+- Geodesic flows and horocycle flows
 - Unipotent dynamics
-- Invariant and stationary measures
+- Invariant measures and stationary measures
 - Mixing and decay of correlations
 - Equidistribution of arithmetic orbits
 - Joinings and measure rigidity
 
 ## Notes
 
-I want these notes to move easily between geometric pictures of orbits, spectral estimates, and precise measure-theoretic statements.
+I want these notes to move easily between geometric pictures, spectral estimates, and precise statements about measures. The goal is to see how the different viewpoints support one another.
 
 ## Papers and references
 
-This section will include notes on papers that connect homogeneous dynamics with Hecke points, automorphic forms, and arithmetic equidistribution.
+This section will include papers and lecture notes that connect homogeneous dynamics with Hecke points, automorphic forms, and arithmetic equidistribution.
 
-## Questions on my mind
+## Questions I keep coming back to
 
 - What makes unipotent dynamics so rigid?
-- How does mixing turn into an effective equidistribution estimate?
+- How does mixing become an effective equidistribution estimate?
 - Where do arithmetic inputs enter a dynamical argument?
