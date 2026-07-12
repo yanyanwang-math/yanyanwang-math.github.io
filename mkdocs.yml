@@ -9,6 +9,9 @@ site_description: >-
 theme:
   name: material
   language: en
+  
+  icon:
+    logo: material/crown
 
   palette:
     - scheme: default
