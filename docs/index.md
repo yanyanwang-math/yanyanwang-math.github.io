@@ -7,7 +7,8 @@ Here, ideas bounce, proofs occasionally misbehave, and curiosity runs wild.
 This is where I collect what I’ve learned, the proofs I’ve chased,
 the papers I’ve explored, and the questions I’m still thinking about.
 
-Some days everything clicks. Some days I get delightfully lost.
+Some days everything clicks. 
+Some days I get delightfully lost.
 Either way, curiosity wins.
 
 *Keep learning. Keep growing. Keep seeing more of the world.*
