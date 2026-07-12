@@ -1,7 +1,7 @@
 # Seminar Notes
 
-Ideas, questions, and references collected from talks and seminars.
+Ideas, questions, and references I collect from talks and seminars.
 
 !!! note
 
-    Seminar notes are growing here. 🌱
+    This section is still growing. 🌱
