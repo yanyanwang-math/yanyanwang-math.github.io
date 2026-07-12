@@ -11,7 +11,7 @@ theme:
   language: en
   
   icon:
-  logo: material/crown
+   logo: material/crown
 
   palette:
     - scheme: default
