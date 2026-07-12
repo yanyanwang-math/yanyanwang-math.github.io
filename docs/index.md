@@ -1,6 +1,6 @@
 # Math with Yanyan! 🌱
 
-Hi, I’m Yanyan Wang. Welcome to my little corner of mathematics!
+Hi, I’m Yanyan Wang. Welcome to my mathematical universe!
 
 Here, ideas bounce, proofs occasionally misbehave, and curiosity runs wild.
 
