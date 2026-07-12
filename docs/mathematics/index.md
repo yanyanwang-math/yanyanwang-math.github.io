@@ -1,6 +1,6 @@
 # Mathematics
 
-This is my map of the math I’m currently learning and organizing. The subjects overlap on purpose: number theory runs into analysis, representation theory opens the door to automorphic forms, and dynamics adds a geometric point of view.
+This is my growing map of the math I am learning, organizing, and coming back to. The subjects overlap all the time, which is part of what makes them so interesting. Number theory meets analysis, representation theory opens the door to automorphic forms, and dynamics brings in a geometric point of view.
 
 ## Areas I’m exploring
 
@@ -13,4 +13,4 @@ This is my map of the math I’m currently learning and organizing. The subjects
 
 !!! note
 
-    These are living notes. Some pages are polished; others are still works in progress, full of questions I’m sorting out.
+    These notes are always growing. Some pages are polished, while others are still full of questions, rough ideas, and things I am working out.
