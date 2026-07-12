@@ -53,8 +53,10 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Algebraic Number Theory: number-theory/index.md
-  - Algebraic Geometry: algebraic-geometry/index.md
+  - Analytic Number Theory: analytic-number-theory/index.md
+  - Probabilistic Number Theory: probabilistic-number-theory/index.md
   - Automorphic Forms: automorphic-forms/index.md
-  - Paper Notes: papers/index.md
+  - Representation Theory: representation-theory/index.md
+  - Homogeneous Dynamics: homogeneous-dynamics/index.md
+  - Paper and Seminar Notes: papers/index.md
   - About Me: about.md
