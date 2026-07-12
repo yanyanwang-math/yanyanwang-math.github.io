@@ -11,7 +11,7 @@ hide:
     <div class="fresh-copy">
       <p class="fresh-kicker">HELLO FROM MY MATHEMATICAL PLAYGROUND</p>
 
-      <h1>Math with Yanyan! <span>🌱</span></h1>
+      <h1>Math with Yanyan! <span>✦</span></h1>
 
       <p class="fresh-intro">
         Hi, I’m Yanyan Wang. Welcome to my little corner of mathematics!
@@ -51,7 +51,7 @@ hide:
   <div class="fresh-grid">
 
     <a class="fresh-card"
-       style="--card:#c88a9e; --soft:#fff4f7;"
+       style="--card:#c58a9f; --soft:#fff5f8;"
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
@@ -59,7 +59,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#b39cc7; --soft:#f8f3fc;"
+       style="--card:#b39cc8; --soft:#f8f4fc;"
        href="probabilistic-number-theory/">
       <span class="fresh-icon">🎲</span>
       <strong>Probabilistic Number Theory</strong>
@@ -67,7 +67,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#d9b4bf; --soft:#fff6f8;"
+       style="--card:#d8bbc5; --soft:#fff6f9;"
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
       <strong>Automorphic Forms</strong>
@@ -75,7 +75,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#d3b08f; --soft:#fffaf4;"
+       style="--card:#d6b294; --soft:#fffaf3;"
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
@@ -83,7 +83,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#c9b8dd; --soft:#faf6fd;"
+       style="--card:#c8b9dc; --soft:#faf7fd;"
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
@@ -91,7 +91,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#d8a2b1; --soft:#fff5f8;"
+       style="--card:#d7a6b5; --soft:#fff6f9;"
        href="papers/">
       <span class="fresh-icon">✎</span>
       <strong>Paper and Seminar Notes</strong>
