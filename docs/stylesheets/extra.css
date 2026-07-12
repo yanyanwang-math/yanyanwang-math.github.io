@@ -1,0 +1,217 @@
+/* Math with Yanyan — fresh and playful palette */
+
+:root {
+  --yanyan-coral: #ff6b7a;
+  --yanyan-orange: #ff9f43;
+  --yanyan-yellow: #ffd166;
+  --yanyan-mint: #57d6a1;
+  --yanyan-purple: #7b61ff;
+  --yanyan-ink: #302a3d;
+
+  --md-primary-fg-color: #ff6b7a;
+  --md-primary-fg-color--light: #ff9a9f;
+  --md-primary-fg-color--dark: #e94f67;
+  --md-accent-fg-color: #7b61ff;
+}
+
+/* Warm, airy background */
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #fffaf5;
+  --md-default-fg-color: #302a3d;
+}
+
+.md-main {
+  background:
+    radial-gradient(
+      circle at 8% 12%,
+      rgba(255, 209, 102, 0.25),
+      transparent 24rem
+    ),
+    radial-gradient(
+      circle at 92% 18%,
+      rgba(87, 214, 161, 0.20),
+      transparent 22rem
+    ),
+    linear-gradient(180deg, #fffaf5 0%, #ffffff 65%);
+}
+
+/* Cheerful gradient header */
+
+.md-header {
+  background: linear-gradient(
+    90deg,
+    #ff6b7a 0%,
+    #ff9f43 38%,
+    #7b61ff 100%
+  );
+  box-shadow: 0 4px 18px rgba(99, 76, 160, 0.18);
+}
+
+.md-tabs {
+  background: linear-gradient(
+    90deg,
+    #ff758c 0%,
+    #ff9f43 45%,
+    #8067e8 100%
+  );
+}
+
+/* Friendlier typography */
+
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  background: linear-gradient(
+    90deg,
+    #ff5f78,
+    #ff9f43,
+    #6f5ce7
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.md-typeset h2 {
+  color: #6651c7;
+  font-weight: 750;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset a {
+  color: #e95672;
+  font-weight: 600;
+}
+
+/* Turn the topic list into lively cards */
+
+.md-typeset #come-explore-with-me + ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1.2rem 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.md-typeset #come-explore-with-me + ul > li {
+  position: relative;
+  margin: 0;
+  padding: 1rem 1rem 1rem 2.5rem;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(123, 97, 255, 0.13);
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(73, 57, 115, 0.08);
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    border-color 180ms ease;
+}
+
+.md-typeset #come-explore-with-me + ul > li::before {
+  position: absolute;
+  left: 1rem;
+  color: #ff6b7a;
+  content: "✦";
+  font-size: 1rem;
+}
+
+.md-typeset #come-explore-with-me + ul > li:nth-child(2n)::before {
+  color: #57b98e;
+}
+
+.md-typeset #come-explore-with-me + ul > li:nth-child(3n)::before {
+  color: #7b61ff;
+}
+
+.md-typeset #come-explore-with-me + ul > li:hover {
+  transform: translateY(-4px) rotate(-0.3deg);
+  border-color: rgba(255, 107, 122, 0.45);
+  box-shadow: 0 14px 30px rgba(73, 57, 115, 0.14);
+}
+
+/* Give the Siegel zero its own mystery card */
+
+.md-typeset
+  #a-little-mystery-from-analytic-number-theory
+  + .arithmatex {
+  margin: 1.3rem 0;
+  padding: 1.5rem 1rem;
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(255, 209, 102, 0.32),
+      transparent 11rem
+    ),
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.96),
+      rgba(244, 240, 255, 0.96)
+    );
+  border: 1px solid rgba(123, 97, 255, 0.18);
+  border-radius: 1.25rem;
+  box-shadow: 0 12px 32px rgba(73, 57, 115, 0.10);
+}
+
+/* Softer quote box */
+
+.md-typeset .admonition.quote {
+  overflow: hidden;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 240, 204, 0.65),
+    rgba(223, 250, 239, 0.72)
+  );
+  border-color: #57d6a1;
+  border-radius: 1rem;
+  box-shadow: 0 8px 22px rgba(52, 130, 100, 0.08);
+}
+
+/* Rounded search box */
+
+.md-search__form {
+  border-radius: 1rem;
+}
+
+/* Dark mode */
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #201b2d;
+  --md-default-fg-color: #fff8ef;
+  --md-primary-fg-color: #ff718d;
+  --md-accent-fg-color: #ffd166;
+}
+
+[data-md-color-scheme="slate"] .md-main {
+  background:
+    radial-gradient(
+      circle at 10% 10%,
+      rgba(255, 107, 122, 0.13),
+      transparent 24rem
+    ),
+    radial-gradient(
+      circle at 90% 18%,
+      rgba(87, 214, 161, 0.10),
+      transparent 22rem
+    ),
+    #201b2d;
+}
+
+[data-md-color-scheme="slate"]
+  .md-typeset
+  #come-explore-with-me
+  + ul
+  > li {
+  background: rgba(48, 40, 67, 0.90);
+  border-color: rgba(255, 255, 255, 0.10);
+}
+
+/* Mobile layout */
+
+@media screen and (max-width: 700px) {
+  .md-typeset #come-explore-with-me + ul {
+    grid-template-columns: 1fr;
+  }
+}
