@@ -58,9 +58,14 @@ extra_javascript:
 nav:
   - Home: index.md
   - Analytic Number Theory: analytic-number-theory/index.md
-  - Probabilistic Number Theory: probabilistic-number-theory/index.md
-  - Automorphic Forms: automorphic-forms/index.md
+  - Probability in Number Theory: probabilistic-number-theory/index.md
+  - Algebraic Number Theory: algebraic-number-theory/index.md
+  - Automorphic Forms & Spectral Theory: automorphic-forms/index.md
   - Representation Theory: representation-theory/index.md
   - Homogeneous Dynamics: homogeneous-dynamics/index.md
-  - Paper and Seminar Notes: papers/index.md
+  - Reading, Papers & Seminars:
+      - Overview: papers/index.md
+      - Paper Notes: papers/paper-notes/index.md
+      - Seminar Notes: papers/seminar-notes/index.md
+      - Expository Notes: papers/expository-notes/index.md
   - About Me: about.md
