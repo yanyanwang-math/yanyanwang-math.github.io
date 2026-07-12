@@ -1,10 +1,10 @@
-site_name: Yanyan Wang | Math with Yanyan!
+site_name: Yanyan Wang
 site_author: Yanyan Wang
 site_url: https://yanyanwang-math.github.io/
 
 site_description: >-
-  Where ideas bounce, proofs misbehave, and curiosity runs wild.
-  Keep learning. Keep growing. Keep finding new ways to see the world.
+  A personal collection of mathematical notes, papers, proofs, and questions,
+  guided by curiosity.
 
 theme:
   name: material
