@@ -1,10 +1,10 @@
 # Homogeneous Dynamics
 
-Where orbits wander, measures settle, and rigidity appears.
+Where orbits move, measures settle, and rigidity shows up.
 
 ## Overview
 
-This section collects notes on group actions on homogeneous spaces, unipotent flows, invariant measures, equidistribution, and rigidity phenomena.
+This is where I collect notes on group actions on homogeneous spaces, unipotent flows, invariant measures, equidistribution, and rigidity phenomena.
 
 ## Topics I’m learning
 
@@ -18,14 +18,14 @@ This section collects notes on group actions on homogeneous spaces, unipotent fl
 
 ## Notes
 
-I want these notes to move back and forth between pictures of orbits, spectral estimates, and precise measure-theoretic statements.
+I want these notes to move easily between geometric pictures of orbits, spectral estimates, and precise measure-theoretic statements.
 
 ## Papers and references
 
-This section will include notes on papers connecting homogeneous dynamics with Hecke points, automorphic forms, and arithmetic equidistribution.
+This section will include notes on papers that connect homogeneous dynamics with Hecke points, automorphic forms, and arithmetic equidistribution.
 
-## Questions I’m thinking about
+## Questions on my mind
 
-- What makes unipotent dynamics unusually rigid?
-- How does mixing become an effective equidistribution estimate?
+- What makes unipotent dynamics so rigid?
+- How does mixing turn into an effective equidistribution estimate?
 - Where do arithmetic inputs enter a dynamical argument?
