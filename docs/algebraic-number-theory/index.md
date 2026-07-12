@@ -1,10 +1,10 @@
 # Algebraic Number Theory
 
-Fields, Galois theory, and arithmetic structure.
+Number fields, Galois theory, and the algebra behind arithmetic.
 
 ## Overview
 
-This section collects notes on the algebraic structures behind arithmetic: number fields, local fields, ideals, ramification, class groups, and reciprocity laws.
+This is where I collect notes on the algebraic structures that shape arithmetic: number fields, local fields, ideals, ramification, class groups, and reciprocity laws.
 
 ## Topics I’m learning
 
@@ -18,14 +18,14 @@ This section collects notes on the algebraic structures behind arithmetic: numbe
 
 ## Notes
 
-The goal is to keep both computations and conceptual maps: explicit examples alongside the structural theorems they illustrate.
+I want to keep both sides of the story here: explicit computations and the larger structures those examples are trying to show us.
 
 ## Papers and references
 
-This area will include textbook notes, worked examples, and references for local–global principles and reciprocity.
+This page will grow into a collection of textbook notes, worked examples, and references on local–global principles and reciprocity.
 
-## Questions I’m thinking about
+## Questions on my mind
 
-- How do local invariants control global arithmetic?
-- What does a class group measure geometrically and arithmetically?
-- How should one move fluently between ideals, idèles, and Galois groups?
+- How do local invariants shape global arithmetic?
+- What exactly does a class group measure, both geometrically and arithmetically?
+- How can I move more naturally between ideals, idèles, and Galois groups?
