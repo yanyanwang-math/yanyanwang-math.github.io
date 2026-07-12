@@ -9,28 +9,27 @@ hide:
   <section class="fresh-hero">
 
     <div class="fresh-copy">
-      <p class="fresh-kicker">HELLO FROM MY MATHEMATICAL PLAYGROUND</p>
+      <p class="fresh-kicker">NOTES, QUESTIONS & LITTLE SPARKS OF CURIOSITY</p>
 
-      <h1>Math with Yanyan! <span>✦</span></h1>
+      <h1>A little corner for big ideas <span>🌿</span></h1>
 
       <p class="fresh-intro">
-        Hi, I’m Yanyan Wang. Welcome to my little corner of mathematics!
+        Hi, I’m Yanyan. This is my little corner of mathematics —
+        a place to learn, wonder, and follow interesting ideas wherever they lead.
       </p>
 
       <p>
-        Here, ideas bounce, proofs occasionally misbehave, and curiosity
-        runs wild. This is where I collect what I’ve learned, the proofs
-        I’ve chased, the papers I’ve explored, and the questions I’m still
-        thinking about.
+        Here I collect the mathematics I’ve learned, the proofs I’ve chased,
+        the papers I’ve explored, and the questions that are still keeping me curious.
       </p>
 
       <p>
-        Some days everything clicks. Some days I get delightfully lost.
-        Either way, curiosity wins.
+        Some days everything clicks. Some days I wander around for a while.
+        Either way, there is always something new to discover.
       </p>
 
       <div class="fresh-mantra">
-        Keep learning · Keep growing · Keep seeing the world differently
+        Stay curious · Keep learning · See the world in new ways
       </div>
     </div>
 
@@ -51,7 +50,7 @@ hide:
   <div class="fresh-grid">
 
     <a class="fresh-card"
-       style="--card:#c58a9f; --soft:#fff5f8;"
+       style="--card:#ff6b6b; --soft:#fff0ee;"
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
@@ -59,7 +58,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#b39cc8; --soft:#f8f4fc;"
+       style="--card:#a475e8; --soft:#f6efff;"
        href="probabilistic-number-theory/">
       <span class="fresh-icon">🎲</span>
       <strong>Probabilistic Number Theory</strong>
@@ -67,7 +66,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#d8bbc5; --soft:#fff6f9;"
+       style="--card:#28b889; --soft:#edfff8;"
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
       <strong>Automorphic Forms</strong>
@@ -75,7 +74,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#d6b294; --soft:#fffaf3;"
+       style="--card:#f0a72f; --soft:#fff9e8;"
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
@@ -83,7 +82,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#c8b9dc; --soft:#faf7fd;"
+       style="--card:#399ed8; --soft:#edf8ff;"
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
@@ -91,7 +90,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#d7a6b5; --soft:#fff6f9;"
+       style="--card:#ec6f9f; --soft:#fff0f7;"
        href="papers/">
       <span class="fresh-icon">✎</span>
       <strong>Paper and Seminar Notes</strong>
