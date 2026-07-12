@@ -1,14 +1,14 @@
 # Representation Theory
 
-Where groups show you who they are by the way they act.
+Where groups reveal their structure through the ways they act.
 
 ## Overview
 
-This section collects the representation-theoretic language that keeps showing up in number theory, harmonic analysis, and dynamics.
+This section collects the ideas from representation theory that keep appearing across number theory, harmonic analysis, and dynamics. I am especially interested in how abstract symmetry becomes something concrete once a group acts on a vector space or function space.
 
-## Topics I’m learning
+## What I’m learning
 
-- Representations of finite and locally compact groups
+- Representations of finite groups and locally compact groups
 - Characters and decomposition into irreducibles
 - Unitary representations
 - Induced representations
@@ -18,14 +18,14 @@ This section collects the representation-theoretic language that keeps showing u
 
 ## Notes
 
-The emphasis here will be on concrete examples and on understanding why representation theory is such a natural language for symmetry.
+The goal here is to keep the examples concrete and the motivation visible. I want to understand not only how the machinery works, but also why representation theory is such a natural language for symmetry.
 
 ## Papers and references
 
-References will be grouped around foundational constructions and the ways they show up in automorphic forms and homogeneous dynamics.
+References will be organized around foundational constructions and the ways they appear in automorphic forms and homogeneous dynamics.
 
-## Questions on my mind
+## Questions I keep coming back to
 
-- What becomes simpler when we pass from a group to its representations?
+- What becomes simpler when we study a group through its representations?
 - How do local representations fit together into a global automorphic object?
-- What is the geometric meaning of irreducibility and multiplicity?
+- What do irreducibility and multiplicity mean geometrically?
