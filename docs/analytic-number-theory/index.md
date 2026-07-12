@@ -1,12 +1,12 @@
 # Analytic Number Theory
 
-Where primes, \(L\)-functions, and complex analysis keep each other busy.
+Primes, \(L\)-functions, and complex analysis all in one lively corner.
 
 ## Overview
 
-This is where I collect notes on analytic approaches to arithmetic questions, especially the ways complex analysis, harmonic analysis, and sharp estimates help us understand primes and other arithmetic objects.
+This is where I collect analytic ways of thinking about arithmetic questions. I am especially interested in how complex analysis, harmonic analysis, and sharp estimates help turn abstract information into concrete statements about primes and other arithmetic objects.
 
-## Topics I’m learning
+## What I’m learning
 
 - Dirichlet series and Euler products
 - Dirichlet \(L\)-functions and characters
@@ -14,18 +14,18 @@ This is where I collect notes on analytic approaches to arithmetic questions, es
 - Exceptional zeros and Siegel zeros
 - Sieve methods
 - Shifted convolution sums
-- Rankin–Selberg estimates
+- Rankin Selberg estimates
 
 ## Notes
 
-I’ll link short explanations, proof sketches, and longer step-by-step reconstructions here as I add them.
+This is where I work through definitions, proof ideas, and longer arguments step by step. I also use these notes to slow down the parts of a proof that are easy to skip but hard to truly understand.
 
 ## Papers and references
 
-This page will also collect books, papers, and lecture notes that connect local calculations to the larger analytic story.
+I will collect books, papers, and lecture notes here, especially sources that connect detailed calculations with the bigger analytic picture.
 
-## Questions on my mind
+## Questions I keep coming back to
 
-- How does a zero-free region become a concrete statement about primes?
-- Where do spectral methods enter arithmetic estimates?
-- Which parts of a proof are truly analytic, and which are arithmetic in disguise?
+- How does a zero-free region turn into a concrete statement about primes?
+- Where do spectral methods enter an arithmetic estimate?
+- Which parts of a proof are genuinely analytic, and which parts are arithmetic in disguise?
