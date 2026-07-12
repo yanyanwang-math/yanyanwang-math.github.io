@@ -61,7 +61,7 @@ nav:
   - Mathematics:
       - Overview: mathematics/index.md
       - Analytic Number Theory: analytic-number-theory/index.md
-      - Probability in Number Theory: probabilistic-number-theory/index.md
+      - Probabilistic Number Theory: probabilistic-number-theory/index.md
       - Algebraic Number Theory: algebraic-number-theory/index.md
       - Automorphic Forms: automorphic-forms/index.md
       - Representation Theory: representation-theory/index.md
