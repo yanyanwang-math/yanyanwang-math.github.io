@@ -54,7 +54,7 @@ hide:
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
-      <small>Primes, L-functions, and the analytic tools behind them</small>
+      <small>Primes, L-functions, and the analytic ideas that bring them to life</small>
     </a>
 
     <a class="fresh-card"
@@ -62,7 +62,7 @@ hide:
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
       <strong>Automorphic Forms</strong>
-      <small>Symmetry, spectra, and arithmetic in conversation</small>
+      <small>Symmetry, spectra, and arithmetic all in conversation</small>
     </a>
 
     <a class="fresh-card"
@@ -70,7 +70,7 @@ hide:
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
-      <small>Orbits, measures, and surprising rigidity</small>
+      <small>Orbits, measures, and rigidity in motion</small>
     </a>
 
     <a class="fresh-card"
@@ -78,7 +78,7 @@ hide:
        href="probabilistic-number-theory/">
       <span class="fresh-icon">ℙ</span>
       <strong>Probabilistic Number Theory</strong>
-      <small>Randomness, distributions, and what usually happens</small>
+      <small>Randomness, distributions, and the patterns that show up most often</small>
     </a>
 
     <a class="fresh-card"
@@ -86,7 +86,7 @@ hide:
        href="algebraic-number-theory/">
       <span class="fresh-icon">ℚ</span>
       <strong>Algebraic Number Theory</strong>
-      <small>Number fields, Galois theory, and arithmetic structure</small>
+      <small>Number fields, Galois theory, and the structure of arithmetic</small>
     </a>
 
     <a class="fresh-card"
@@ -94,7 +94,7 @@ hide:
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
-      <small>Groups, actions, and the structure hiding underneath</small>
+      <small>Groups, actions, and the structure beneath the surface</small>
     </a>
 
   </div>
