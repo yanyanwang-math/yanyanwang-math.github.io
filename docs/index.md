@@ -11,11 +11,11 @@ hide:
     <div class="fresh-copy">
       <p class="fresh-kicker">NOTES, QUESTIONS & LITTLE SPARKS OF CURIOSITY</p>
 
-      <h1>A little corner for big ideas <span>🌿</span></h1>
+      <h1>Hi, I’m Yanyan. <span>✦</span></h1>
 
       <p class="fresh-intro">
-        Hi, I’m Yanyan. This is my little corner of mathematics —
-        a place to learn, wonder, and follow interesting ideas wherever they lead.
+        Welcome to my little corner for big ideas — a place to learn,
+        wonder, and follow interesting mathematics wherever it leads.
       </p>
 
       <p>
@@ -50,7 +50,7 @@ hide:
   <div class="fresh-grid">
 
     <a class="fresh-card"
-       style="--card:#ff6b6b; --soft:#fff0ee;"
+       style="--card:#c58a9f; --soft:#fff5f8;"
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
@@ -58,15 +58,15 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#28b889; --soft:#edfff8;"
+       style="--card:#b8a4c8; --soft:#f8f4fc;"
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
-      <strong>Automorphic Forms &amp; Spectral Theory</strong>
+      <strong>Automorphic Forms</strong>
       <small>Symmetry, spectra, and arithmetic</small>
     </a>
 
     <a class="fresh-card"
-       style="--card:#399ed8; --soft:#edf8ff;"
+       style="--card:#c8b9dc; --soft:#faf7fd;"
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
@@ -74,7 +74,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#a475e8; --soft:#f6efff;"
+       style="--card:#b39cc8; --soft:#f8f4fc;"
        href="probabilistic-number-theory/">
       <span class="fresh-icon">ℙ</span>
       <strong>Probability in Number Theory</strong>
@@ -82,7 +82,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#c58a9f; --soft:#fff3f7;"
+       style="--card:#d8bbc5; --soft:#fff6f9;"
        href="algebraic-number-theory/">
       <span class="fresh-icon">ℚ</span>
       <strong>Algebraic Number Theory</strong>
@@ -90,7 +90,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#f0a72f; --soft:#fff9e8;"
+       style="--card:#d6b294; --soft:#fffaf3;"
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
@@ -131,14 +131,17 @@ hide:
 
   </div>
 
-  <div class="fresh-formula arithmatex">
-  \[
-  L(\beta_\chi,\chi)=0,
-  \qquad
-  \beta_\chi=1-\delta_\chi,
-  \qquad
-  0<\delta_\chi\ll\frac{1}{\log q}.
-  \]
+  <div class="fresh-formula">
+    <div class="formula-kicker">A formula currently on my mind <span>✦</span></div>
+    <div class="arithmatex">
+    \[
+    L(\beta_\chi,\chi)=0,
+    \qquad
+    \beta_\chi=1-\delta_\chi,
+    \qquad
+    0<\delta_\chi\ll\frac{1}{\log q}.
+    \]
+    </div>
   </div>
 
 </div>
