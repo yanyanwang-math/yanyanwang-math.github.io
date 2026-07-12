@@ -1,8 +1,7 @@
 # Expository Notes
 
-Longer explanations written in my own way, with an emphasis on intuition,
-logical structure, and connections between ideas.
+Longer explanations in my own words, with a focus on intuition, logical structure, and the connections between ideas.
 
 !!! note
 
-    Expository notes are growing here. 🌱
+    This section is still growing. 🌱
