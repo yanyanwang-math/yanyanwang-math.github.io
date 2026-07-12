@@ -1,15 +1,14 @@
 # Reading, Papers & Seminars
 
-A home for papers I am reading, ideas gathered from talks, and longer explanations
-written in my own way.
+A home for the papers I’m reading, the ideas I pick up from talks, and the longer explanations I work out in my own way.
 
 ## Paper Notes
 
-Papers I am reading, reconstructing, and trying to understand.
+Papers I’m reading, unpacking, and trying to understand one step at a time.
 
 ## Seminar Notes
 
-Ideas, questions, and references collected from talks.
+Ideas, questions, and references I collect from talks and seminars.
 
 ## Expository Notes
 
