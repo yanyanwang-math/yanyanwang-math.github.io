@@ -131,32 +131,6 @@ hide:
 
   </div>
 
-  <h2 class="fresh-section-title recent-title">
-    Recent Updates <span>✦</span>
-  </h2>
-
-  <div class="recent-updates">
-    <a class="recent-update featured-update" href="homogeneous-dynamics/">
-      <div class="update-icon">ζ</div>
-      <div class="update-copy">
-        <div class="update-meta">CURRENTLY READING · JULY 2026</div>
-        <strong>Margulis Functions</strong>
-        <p>I’m working through Alex Eskin’s notes. My handwritten notes are coming soon.</p>
-      </div>
-      <span class="update-arrow">→</span>
-    </a>
-
-    <a class="recent-update" href="homogeneous-dynamics/">
-      <div class="update-icon">↝</div>
-      <div class="update-copy">
-        <div class="update-meta">PAGE UPDATE · JULY 2026</div>
-        <strong>Homogeneous Dynamics</strong>
-        <p>The reading page now includes my current Margulis functions project.</p>
-      </div>
-      <span class="update-arrow">→</span>
-    </a>
-  </div>
-
   <div class="fresh-formula">
     <div class="formula-kicker">A formula I’ve been thinking about lately <span>✦</span></div>
     <div class="arithmatex">
