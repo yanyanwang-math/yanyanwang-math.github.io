@@ -3,7 +3,7 @@ site_author: Yanyan Wang
 site_url: https://yanyanwang-math.github.io/
 
 site_description: >-
-  A sweet and lively collection of mathematical notes, papers, proofs, and questions,
+  A lively collection of mathematical notes, papers, proofs, and questions,
   all guided by curiosity.
 
 theme:
@@ -11,7 +11,7 @@ theme:
   language: en
 
   icon:
-   logo: material/cat
+   logo: material/sprout
 
   palette:
     - scheme: default
