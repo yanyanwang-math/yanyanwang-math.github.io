@@ -9,7 +9,7 @@ hide:
   <section class="fresh-hero">
 
     <div class="fresh-copy">
-      <p class="fresh-kicker">A SWEET LITTLE HOME FOR BIG MATHEMATICAL IDEAS</p>
+      <p class="fresh-kicker">NOTES, QUESTIONS & LITTLE SPARKS OF CURIOSITY</p>
 
       <h1>Hi, I’m Yanyan. <span>✦</span></h1>
 
@@ -29,36 +29,16 @@ hide:
       </p>
 
       <div class="fresh-mantra">
-        Stay curious · Keep learning · Add a little sweetness to every proof
+        Stay curious · Keep learning · See the world a little differently
       </div>
     </div>
 
-    <div class="kitty-mascot" aria-hidden="true">
-      <span class="kitty-symbol kitty-symbol-one">ζ</span>
-      <span class="kitty-symbol kitty-symbol-two">ρ</span>
-      <span class="kitty-symbol kitty-symbol-three">∞</span>
-      <span class="kitty-symbol kitty-symbol-four">π</span>
-
-      <div class="kitty-face">
-        <span class="kitty-ear kitty-ear-left"></span>
-        <span class="kitty-ear kitty-ear-right"></span>
-        <span class="kitty-eye kitty-eye-left"></span>
-        <span class="kitty-eye kitty-eye-right"></span>
-        <span class="kitty-nose"></span>
-
-        <span class="kitty-whisker kitty-whisker-l1"></span>
-        <span class="kitty-whisker kitty-whisker-l2"></span>
-        <span class="kitty-whisker kitty-whisker-l3"></span>
-        <span class="kitty-whisker kitty-whisker-r1"></span>
-        <span class="kitty-whisker kitty-whisker-r2"></span>
-        <span class="kitty-whisker kitty-whisker-r3"></span>
-
-        <span class="kitty-bow">
-          <span class="kitty-bow-left"></span>
-          <span class="kitty-bow-center"></span>
-          <span class="kitty-bow-right"></span>
-        </span>
-      </div>
+    <div class="math-orbit" aria-hidden="true">
+      <span class="orbit-core">ζ</span>
+      <span class="orbit-symbol orbit-one">ρ</span>
+      <span class="orbit-symbol orbit-two">∞</span>
+      <span class="orbit-symbol orbit-three">π</span>
+      <span class="orbit-symbol orbit-four">✦</span>
     </div>
 
   </section>
@@ -70,7 +50,7 @@ hide:
   <div class="fresh-grid">
 
     <a class="fresh-card"
-       style="--card:#ef6f8d; --soft:#fff3f6;"
+       style="--card:#c58a9f; --soft:#fff5f8;"
        href="analytic-number-theory/">
       <span class="fresh-icon">ζ</span>
       <strong>Analytic Number Theory</strong>
@@ -78,7 +58,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#f3a5b8; --soft:#fff6f8;"
+       style="--card:#b8a4c8; --soft:#f8f4fc;"
        href="automorphic-forms/">
       <span class="fresh-icon">𝔸</span>
       <strong>Automorphic Forms</strong>
@@ -86,7 +66,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#f5c6d1; --soft:#fff8fa;"
+       style="--card:#c8b9dc; --soft:#faf7fd;"
        href="homogeneous-dynamics/">
       <span class="fresh-icon">↝</span>
       <strong>Homogeneous Dynamics</strong>
@@ -94,7 +74,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#e88ba5; --soft:#fff4f7;"
+       style="--card:#b39cc8; --soft:#f8f4fc;"
        href="probabilistic-number-theory/">
       <span class="fresh-icon">ℙ</span>
       <strong>Probabilistic Number Theory</strong>
@@ -102,7 +82,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#f0b9c7; --soft:#fff7f9;"
+       style="--card:#d8bbc5; --soft:#fff6f9;"
        href="algebraic-number-theory/">
       <span class="fresh-icon">ℚ</span>
       <strong>Algebraic Number Theory</strong>
@@ -110,7 +90,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#eebd72; --soft:#fff9ef;"
+       style="--card:#d6b294; --soft:#fffaf3;"
        href="representation-theory/">
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
@@ -126,7 +106,7 @@ hide:
   <div class="fresh-grid">
 
     <a class="fresh-card"
-       style="--card:#ef6f8d; --soft:#fff3f6;"
+       style="--card:#d7a6b5; --soft:#fff5f8;"
        href="papers/paper-notes/">
       <span class="fresh-icon">✎</span>
       <strong>Paper Notes</strong>
@@ -134,7 +114,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#e88ba5; --soft:#fff4f7;"
+       style="--card:#b39cc8; --soft:#f8f4fc;"
        href="papers/seminar-notes/">
       <span class="fresh-icon">✦</span>
       <strong>Seminar Notes</strong>
@@ -142,7 +122,7 @@ hide:
     </a>
 
     <a class="fresh-card"
-       style="--card:#eebd72; --soft:#fff9ef;"
+       style="--card:#d6b294; --soft:#fffaf3;"
        href="papers/expository-notes/">
       <span class="fresh-icon">∞</span>
       <strong>Expository Notes</strong>
@@ -152,7 +132,7 @@ hide:
   </div>
 
   <h2 class="fresh-section-title recent-title">
-    Recent Updates <span>♡</span>
+    Recent Updates <span>✦</span>
   </h2>
 
   <div class="recent-updates">
@@ -178,7 +158,7 @@ hide:
   </div>
 
   <div class="fresh-formula">
-    <div class="formula-kicker">A little math note <span>♡</span></div>
+    <div class="formula-kicker">A formula I’ve been thinking about lately <span>✦</span></div>
     <div class="arithmatex">
     \[
     L(\beta_\chi,\chi)=0,
