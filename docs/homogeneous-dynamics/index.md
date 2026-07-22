@@ -18,7 +18,17 @@ This is where I collect notes on group actions on homogeneous spaces, unipotent 
 
 ## Notes
 
-I’m currently working through [*Margulis Functions*](https://math.uchicago.edu/~eskin/margulis-functions.pdf). Notes coming soon.
+### Margulis Functions: read ✅
+
+Reference: [*Margulis Functions*](https://math.uchicago.edu/~eskin/margulis-functions.pdf)
+
+Didn't get thru it as fast as I thought bc I've also been enjoying summer along the way.
+
+Now I'm organizing my thoughts & writing up my own notes based on this reference. Honestly, I think this is where the real learning happens.
+
+Once the notes r done, this beast is gonna feel way less scary.
+
+**Let's gooo. Time to tame this wild monster! 🫡**
 
 I want these notes to move easily between geometric pictures, spectral estimates, and precise statements about measures. The goal is to see how the different viewpoints support one another.
 
