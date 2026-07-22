@@ -136,12 +136,17 @@ hide:
   </h2>
 
   <div class="recent-updates">
-    <a class="recent-update featured-update" href="homogeneous-dynamics/">
-      <div class="update-icon">ζ</div>
+    <a class="recent-update featured-update reading-story" href="homogeneous-dynamics/">
+      <div class="update-icon">✓</div>
       <div class="update-copy">
-        <div class="update-meta">CURRENTLY READING · JULY 2026</div>
-        <strong>Margulis Functions</strong>
-        <p>I’m working through Alex Eskin’s notes. My handwritten notes are coming soon.</p>
+        <div class="update-meta">READING UPDATE · JULY 2026</div>
+        <strong>Margulis Functions: read ✅</strong>
+        <div class="update-story">
+          <p>Didn't get thru it as fast as I thought bc I've also been enjoying summer along the way.</p>
+          <p>Now I'm organizing my thoughts &amp; writing up my own notes based on this reference. Honestly, I think this is where the real learning happens.</p>
+          <p>Once the notes r done, this beast is gonna feel way less scary.</p>
+          <p class="update-cheer">Let's gooo. Time to tame this wild monster! 🫡</p>
+        </div>
       </div>
       <span class="update-arrow">→</span>
     </a>
@@ -149,9 +154,9 @@ hide:
     <a class="recent-update" href="homogeneous-dynamics/">
       <div class="update-icon">↝</div>
       <div class="update-copy">
-        <div class="update-meta">PAGE UPDATE · JULY 2026</div>
+        <div class="update-meta">NOTES IN PROGRESS · JULY 2026</div>
         <strong>Homogeneous Dynamics</strong>
-        <p>The reading page now includes my current Margulis functions project.</p>
+        <p>The Margulis Functions reference is finished. I’m now organizing my thoughts and writing my own notes.</p>
       </div>
       <span class="update-arrow">→</span>
     </a>
