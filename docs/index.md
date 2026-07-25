@@ -162,6 +162,37 @@ hide:
     </a>
   </div>
 
+
+  <section class="margulis-reflection" aria-label="Margulis functions reflection">
+    <div class="reflection-kicker">A LITTLE AFTERTHOUGHT <span>✦</span></div>
+
+    <p class="reflection-lead">
+      Margulis functions taught me that bounded failure gets absorbed into a constant.
+    </p>
+
+    <p class="reflection-lead">
+      This summer taught me that bounded pain gets absorbed into freedom.
+    </p>
+
+    <p>
+      Somewhere along the way I fell in love w/ Paris at night. Every evening I’d hop on my bike,
+      let the wind off the Seine do its thing &amp; just keep riding.
+    </p>
+
+    <p class="reflection-motion">
+      No need to prove anything. Just keep moving. Paris will catch u.
+    </p>
+
+    <p>Eskin &amp; Mozes end their survey by saying:</p>
+
+    <blockquote>
+      “In general, (non-additive) Margulis functions are an extremely powerful tool,
+      but in many cases, their construction is a difficult engineering challenge.”
+    </blockquote>
+
+    <p class="reflection-finale">Good thing I’m an engineer. <span>🫡</span></p>
+  </section>
+
   <div class="fresh-formula">
     <div class="formula-kicker">A formula I’ve been thinking about lately <span>✦</span></div>
     <div class="arithmatex">
