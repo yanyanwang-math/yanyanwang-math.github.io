@@ -18,19 +18,26 @@ This is where I collect notes on group actions on homogeneous spaces, unipotent 
 
 ## Notes
 
-### Margulis Functions: read ✅
+### Margulis Functions and Their Applications
+
+<div class="note-upload-meta">
+  <span class="note-upload-badge">PDF · 18 handwritten pages</span>
+  <span class="note-upload-date">Uploaded July 25, 2026</span>
+</div>
+
+Done and uploaded. This one took longer than I expected because I was enjoying summer along the way, but organizing the ideas in my own notes is where the real learning happened.
+
+The notes develop the drift inequality, random walks and tightness, spherical averages, rank one and higher rank constructions, product maps, large deviations, additive Margulis functions, and several applications.
+
+<a class="note-download-button"
+   href="../assets/notes/margulis-functions-and-their-applications.pdf"
+   target="_blank" rel="noopener">
+  Open the handwritten notes <span>↗</span>
+</a>
 
 Reference: [*Margulis Functions*](https://math.uchicago.edu/~eskin/margulis-functions.pdf)
 
-Didn't get thru it as fast as I thought bc I've also been enjoying summer along the way.
-
-Now I'm organizing my thoughts & writing up my own notes based on this reference. Honestly, I think this is where the real learning happens.
-
-Once the notes r done, this beast is gonna feel way less scary.
-
-**Let's gooo. Time to tame this wild monster! 🫡**
-
-I want these notes to move easily between geometric pictures, spectral estimates, and precise statements about measures. The goal is to see how the different viewpoints support one another.
+**Wild monster officially tamed. 🫡**
 
 ## Papers and references
 
