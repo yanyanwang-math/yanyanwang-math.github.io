@@ -136,27 +136,27 @@ hide:
   </h2>
 
   <div class="recent-updates">
-    <a class="recent-update featured-update reading-story" href="homogeneous-dynamics/">
-      <div class="update-icon">✓</div>
+    <a class="recent-update featured-update reading-story"
+       href="assets/notes/margulis-functions-and-their-applications.pdf"
+       target="_blank" rel="noopener">
+      <div class="update-icon">PDF</div>
       <div class="update-copy">
-        <div class="update-meta">READING UPDATE · JULY 2026</div>
-        <strong>Margulis Functions: read ✅</strong>
+        <div class="update-meta">NOTES UPLOADED · JULY 25, 2026</div>
+        <strong>Margulis Functions and Their Applications</strong>
         <div class="update-story">
-          <p>Didn't get thru it as fast as I thought bc I've also been enjoying summer along the way.</p>
-          <p>Now I'm organizing my thoughts &amp; writing up my own notes based on this reference. Honestly, I think this is where the real learning happens.</p>
-          <p>Once the notes r done, this beast is gonna feel way less scary.</p>
-          <p class="update-cheer">Let's gooo. Time to tame this wild monster! 🫡</p>
+          <p>Finished and uploaded. These 18 handwritten pages grew out of the reference and my own attempt to organize the main ideas, constructions, and applications.</p>
+          <p class="update-cheer">Wild monster officially tamed. 🫡</p>
         </div>
       </div>
-      <span class="update-arrow">→</span>
+      <span class="update-arrow">↗</span>
     </a>
 
     <a class="recent-update" href="homogeneous-dynamics/">
       <div class="update-icon">↝</div>
       <div class="update-copy">
-        <div class="update-meta">NOTES IN PROGRESS · JULY 2026</div>
+        <div class="update-meta">PAGE UPDATED · JULY 25, 2026</div>
         <strong>Homogeneous Dynamics</strong>
-        <p>The Margulis Functions reference is finished. I’m now organizing my thoughts and writing my own notes.</p>
+        <p>The finished PDF is now linked from the topic page and the Expository Notes library.</p>
       </div>
       <span class="update-arrow">→</span>
     </a>
