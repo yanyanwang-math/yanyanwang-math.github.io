@@ -190,7 +190,7 @@ hide:
       but in many cases, their construction is a difficult engineering challenge.”
     </blockquote>
 
-    <p class="reflection-finale">Good thing I’m an engineer. <span>🫡</span></p>
+    <p class="reflection-finale">Good thing I’m an engineer. <span></span></p>
   </section>
 
   <div class="fresh-formula">
