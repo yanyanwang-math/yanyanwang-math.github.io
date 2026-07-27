@@ -1268,3 +1268,23 @@ input {
   }
 }
 
+
+/* Center the seventh exploration card while keeping the grid balanced. */
+
+.explore-grid .explore-card-analysis {
+  grid-column: 1 / -1;
+  width: calc((100% - 2rem) / 3);
+  justify-self: center;
+}
+
+@media screen and (max-width: 900px) {
+  .explore-grid .explore-card-analysis {
+    width: calc((100% - 1rem) / 2);
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .explore-grid .explore-card-analysis {
+    width: 100%;
+  }
+}
