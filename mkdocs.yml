@@ -66,6 +66,7 @@ nav:
       - Automorphic Forms: automorphic-forms/index.md
       - Representation Theory: representation-theory/index.md
       - Homogeneous Dynamics: homogeneous-dynamics/index.md
+      - Analysis and PDE: analysis-and-pde/index.md
   - Notes:
       - Overview: papers/index.md
       - Paper Notes: papers/paper-notes/index.md
