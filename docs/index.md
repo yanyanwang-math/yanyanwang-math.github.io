@@ -47,7 +47,7 @@ hide:
     What I’m exploring <span>✦</span>
   </h2>
 
-  <div class="fresh-grid">
+  <div class="fresh-grid explore-grid">
 
     <a class="fresh-card"
        style="--card:#c58a9f; --soft:#fff5f8;"
@@ -95,6 +95,14 @@ hide:
       <span class="fresh-icon">ρ</span>
       <strong>Representation Theory</strong>
       <small>Groups, actions, and the structure beneath the surface</small>
+    </a>
+
+    <a class="fresh-card explore-card-analysis"
+       style="--card:#9faec8; --soft:#f5f7fb;"
+       href="analysis-and-pde/">
+      <span class="fresh-icon">∂</span>
+      <strong>Analysis and PDE</strong>
+      <small>Sobolev spaces, elliptic operators, and the estimates behind spectra and dynamics</small>
     </a>
 
   </div>
@@ -190,7 +198,7 @@ hide:
       but in many cases, their construction is a difficult engineering challenge.”
     </blockquote>
 
-    <p class="reflection-finale">Good thing I’m an engineer. <span></span></p>
+    <p class="reflection-finale">Good thing I’m an engineer. <span>🫡</span></p>
   </section>
 
   <div class="fresh-formula">
