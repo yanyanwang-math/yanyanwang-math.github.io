@@ -144,7 +144,18 @@ hide:
   </h2>
 
   <div class="recent-updates">
-    <a class="recent-update featured-update reading-story"
+    <a class="recent-update featured-update course-update"
+       href="analytic-number-theory/ihes-summer-school-2014/">
+      <div class="update-icon">▶</div>
+      <div class="update-copy">
+        <div class="update-meta">NEXT STUDY PROJECT · JULY 28, 2026</div>
+        <strong>IHÉS Summer School 2014: Analytic Number Theory</strong>
+        <p>I’m reading papers to keep up w/ the latest stuff, but also making sure my foundations stay solid. Every now n then, it’s nice to switch things up &amp; hear the masters teach math themselves.</p>
+      </div>
+      <span class="update-arrow">→</span>
+    </a>
+
+    <a class="recent-update reading-story"
        href="assets/notes/margulis-functions-and-their-applications.pdf"
        target="_blank" rel="noopener">
       <div class="update-icon">PDF</div>
