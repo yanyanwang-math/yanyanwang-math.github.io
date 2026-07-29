@@ -9,9 +9,9 @@
     So I’m working through this summer school one lecture at a time and writing notes along the way.
   </p>
   <div class="course-status-row">
-    <span><strong>Status</strong> Starting soon</span>
-    <span><strong>Added</strong> July 28, 2026</span>
-    <span><strong>Notes</strong> Coming as I go</span>
+    <span><strong>Status</strong> In progress</span>
+    <span><strong>Started</strong> July 28, 2026</span>
+    <span><strong>Latest upload</strong> July 29, 2026</span>
   </div>
   <div class="course-project-actions">
     <a class="course-action primary" href="https://www.youtube.com/playlist?list=PLx5f8IelFRgEXleMSOdwidL2P5GTlL0uY" target="_blank" rel="noopener">Open the YouTube playlist ↗</a>
@@ -42,7 +42,27 @@ The school moves across both classical and newer parts of analytic number theory
 
 ## Lecture notes
 
-<div class="course-notes-empty">
-  <strong>Notes are on the way.</strong>
-  <span>This section will grow as I move through the playlist.</span>
+<div class="course-progress-card">
+  <div class="course-progress-head">
+    <strong>Andrew Granville: The Pretentious Approach to Analytic Number Theory</strong>
+    <span>1 of 3 complete</span>
+  </div>
+  <div class="course-progress-track" aria-label="One of three lectures complete">
+    <span style="width: 33.333%;"></span>
+  </div>
+  <p>Lecture 1 is up. Two more to go.</p>
+</div>
+
+<div class="notes-library">
+  <a class="notes-library-item"
+     href="../../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf"
+     target="_blank" rel="noopener">
+    <div class="notes-library-icon">PDF</div>
+    <div class="notes-library-copy">
+      <div class="notes-library-meta">LECTURE 1 OF 3 · UPLOADED JULY 29, 2026 · 28 HANDWRITTEN PAGES</div>
+      <strong>The Pretentious Approach to Analytic Number Theory I</strong>
+      <p><em>Perron’s Formula Revisited.</em> Perron’s formula, prime counting functions, contour shifting, zero free regions, pretentious distance, Mertens’ inequality, integration by parts, and the Riemann Hypothesis from the right of 1.</p>
+    </div>
+    <span class="notes-library-arrow">↗</span>
+  </a>
 </div>

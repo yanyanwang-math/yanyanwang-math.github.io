@@ -10,7 +10,7 @@ This is where I collect analytic ways of thinking about arithmetic questions. I 
 
 - Dirichlet series and Euler products
 - Dirichlet \(L\)-functions and characters
-- Prime number theorems and zero-free regions
+- Prime number theorems and zero free regions
 - Exceptional zeros and Siegel zeros
 - Sieve methods
 - Shifted convolution sums
@@ -19,15 +19,16 @@ This is where I collect analytic ways of thinking about arithmetic questions. I 
 ## Current study project
 
 <div class="course-project-card">
-  <div class="course-project-meta">NEXT UP · ADDED JULY 28, 2026</div>
+  <div class="course-project-meta">IN PROGRESS · UPDATED JULY 29, 2026</div>
   <div class="course-project-title">IHÉS Summer School 2014: Analytic Number Theory</div>
   <p>
     I’m reading papers to keep up w/ the latest stuff, but also making sure my foundations stay solid.
     Every now n then, it’s nice to switch things up &amp; hear the masters teach math themselves.
-    I’ll add notes here as I go.
+    The notes for the first of Andrew Granville’s three lectures are now finished and uploaded.
   </p>
   <div class="course-project-actions">
-    <a class="course-action primary" href="ihes-summer-school-2014/">Open the study page</a>
+    <a class="course-action primary" href="../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf" target="_blank" rel="noopener">Open Lecture 1 notes ↗</a>
+    <a class="course-action" href="ihes-summer-school-2014/">Open the study page</a>
     <a class="course-action" href="https://www.youtube.com/playlist?list=PLx5f8IelFRgEXleMSOdwidL2P5GTlL0uY" target="_blank" rel="noopener">Watch the playlist ↗</a>
   </div>
 </div>
@@ -42,6 +43,6 @@ I will collect books, papers, and lecture notes here, especially sources that co
 
 ## Questions I keep coming back to
 
-- How does a zero-free region turn into a concrete statement about primes?
+- How does a zero free region turn into a concrete statement about primes?
 - Where do spectral methods enter an arithmetic estimate?
 - Which parts of a proof are genuinely analytic, and which parts are arithmetic in disguise?
