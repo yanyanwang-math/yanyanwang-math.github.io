@@ -60,7 +60,9 @@ nav:
   - Home: index.md
   - Mathematics:
       - Overview: mathematics/index.md
-      - Analytic Number Theory: analytic-number-theory/index.md
+      - Analytic Number Theory:
+          - Overview: analytic-number-theory/index.md
+          - IHÉS Summer School 2014: analytic-number-theory/ihes-summer-school-2014.md
       - Probabilistic Number Theory: probabilistic-number-theory/index.md
       - Algebraic Number Theory: algebraic-number-theory/index.md
       - Automorphic Forms: automorphic-forms/index.md
