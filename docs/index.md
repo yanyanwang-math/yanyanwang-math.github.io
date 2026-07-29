@@ -144,13 +144,27 @@ hide:
   </h2>
 
   <div class="recent-updates">
-    <a class="recent-update featured-update course-update"
-       href="analytic-number-theory/ihes-summer-school-2014/">
-      <div class="update-icon">▶</div>
+    <a class="recent-update featured-update reading-story course-update"
+       href="assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf"
+       target="_blank" rel="noopener">
+      <div class="update-icon">PDF</div>
       <div class="update-copy">
-        <div class="update-meta">NEXT STUDY PROJECT · JULY 28, 2026</div>
-        <strong>IHÉS Summer School 2014: Analytic Number Theory</strong>
-        <p>I’m reading papers to keep up w/ the latest stuff, but also making sure my foundations stay solid. Every now n then, it’s nice to switch things up &amp; hear the masters teach math themselves.</p>
+        <div class="update-meta">NOTES UPLOADED · JULY 29, 2026</div>
+        <strong>The Pretentious Approach to Analytic Number Theory I</strong>
+        <div class="update-story">
+          <p><em>Perron’s Formula Revisited.</em> Lecture 1 of 3 is done. These 28 handwritten pages follow Andrew Granville from Perron’s formula and prime number theorem error terms to pretentious distance, the zero free line, and a formulation of the Riemann Hypothesis entirely to the right of 1.</p>
+          <p class="update-cheer">1/3 down ✅</p>
+        </div>
+      </div>
+      <span class="update-arrow">↗</span>
+    </a>
+
+    <a class="recent-update" href="analytic-number-theory/ihes-summer-school-2014/">
+      <div class="update-icon">1/3</div>
+      <div class="update-copy">
+        <div class="update-meta">STUDY PROJECT UPDATED · JULY 29, 2026</div>
+        <strong>Andrew Granville’s series of three lectures</strong>
+        <p>The first set of notes is up. Two lectures left, and I’m adding them as I go.</p>
       </div>
       <span class="update-arrow">→</span>
     </a>
@@ -168,16 +182,6 @@ hide:
         </div>
       </div>
       <span class="update-arrow">↗</span>
-    </a>
-
-    <a class="recent-update" href="homogeneous-dynamics/">
-      <div class="update-icon">↝</div>
-      <div class="update-copy">
-        <div class="update-meta">PAGE UPDATED · JULY 25, 2026</div>
-        <strong>Homogeneous Dynamics</strong>
-        <p>The finished PDF is now linked from the topic page and the Expository Notes library.</p>
-      </div>
-      <span class="update-arrow">→</span>
     </a>
   </div>
 
