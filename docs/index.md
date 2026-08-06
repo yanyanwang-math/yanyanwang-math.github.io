@@ -145,28 +145,42 @@ hide:
 
   <div class="recent-updates">
     <a class="recent-update featured-update reading-story course-update"
-       href="assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf"
+       href="assets/notes/ihes-summer-school-2014/granville-pretentious-approach-ii-pnt-error-terms-and-halasz.pdf"
        target="_blank" rel="noopener">
       <div class="update-icon">PDF</div>
       <div class="update-copy">
-        <div class="update-meta">NOTES UPLOADED · JULY 29, 2026</div>
-        <strong>The Pretentious Approach to Analytic Number Theory I</strong>
+        <div class="update-meta">NOTES UPLOADED · AUGUST 6, 2026</div>
+        <strong>The Pretentious Approach to Analytic Number Theory II</strong>
         <div class="update-story">
-          <p><em>Perron’s Formula Revisited.</em> Lecture 1 of 3 is done. These 28 handwritten pages follow Andrew Granville from Perron’s formula and prime number theorem error terms to pretentious distance, the zero free line, and a formulation of the Riemann Hypothesis entirely to the right of 1.</p>
-          <p class="update-cheer">1/3 down ✅</p>
+          <p><em>PNT Error Terms and Halász’s Theorem.</em> Lecture 2 of 3 is done. These 26 handwritten pages move through PNT error terms, Perron transfer, the Vinogradov Korobov scale, pretentious distance, and Halász’s theorem.</p>
+          <p class="update-cheer">2/3 down ✅ One more to go.</p>
         </div>
       </div>
       <span class="update-arrow">↗</span>
     </a>
 
     <a class="recent-update" href="analytic-number-theory/ihes-summer-school-2014/">
-      <div class="update-icon">1/3</div>
+      <div class="update-icon">2/3</div>
       <div class="update-copy">
-        <div class="update-meta">STUDY PROJECT UPDATED · JULY 29, 2026</div>
+        <div class="update-meta">STUDY PROJECT UPDATED · AUGUST 6, 2026</div>
         <strong>Andrew Granville’s series of three lectures</strong>
-        <p>The first set of notes is up. Two lectures left, and I’m adding them as I go.</p>
+        <p>The first two sets of notes are up. One lecture left, and I’m adding it as I go.</p>
       </div>
       <span class="update-arrow">→</span>
+    </a>
+
+    <a class="recent-update reading-story"
+       href="assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf"
+       target="_blank" rel="noopener">
+      <div class="update-icon">PDF</div>
+      <div class="update-copy">
+        <div class="update-meta">PREVIOUS UPLOAD · JULY 29, 2026</div>
+        <strong>The Pretentious Approach to Analytic Number Theory I</strong>
+        <div class="update-story">
+          <p><em>Perron’s Formula Revisited.</em> The first 28 handwritten pages follow Andrew Granville from Perron’s formula and prime number theorem error terms to pretentious distance, the zero free line, and a formulation of the Riemann Hypothesis entirely to the right of 1.</p>
+        </div>
+      </div>
+      <span class="update-arrow">↗</span>
     </a>
 
     <a class="recent-update reading-story"
@@ -184,7 +198,6 @@ hide:
       <span class="update-arrow">↗</span>
     </a>
   </div>
-
 
   <section class="margulis-reflection" aria-label="Margulis functions reflection">
     <div class="reflection-kicker">A LITTLE AFTERTHOUGHT <span>✦</span></div>
