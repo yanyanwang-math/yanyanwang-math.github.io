@@ -11,7 +11,7 @@
   <div class="course-status-row">
     <span><strong>Status</strong> In progress</span>
     <span><strong>Started</strong> July 28, 2026</span>
-    <span><strong>Latest upload</strong> July 29, 2026</span>
+    <span><strong>Latest upload</strong> August 6, 2026</span>
   </div>
   <div class="course-project-actions">
     <a class="course-action primary" href="https://www.youtube.com/playlist?list=PLx5f8IelFRgEXleMSOdwidL2P5GTlL0uY" target="_blank" rel="noopener">Open the YouTube playlist ↗</a>
@@ -45,15 +45,27 @@ The school moves across both classical and newer parts of analytic number theory
 <div class="course-progress-card">
   <div class="course-progress-head">
     <strong>Andrew Granville: The Pretentious Approach to Analytic Number Theory</strong>
-    <span>1 of 3 complete</span>
+    <span>2 of 3 complete</span>
   </div>
-  <div class="course-progress-track" aria-label="One of three lectures complete">
-    <span style="width: 33.333%;"></span>
+  <div class="course-progress-track" aria-label="Two of three lectures complete">
+    <span style="width: 66.666%;"></span>
   </div>
-  <p>Lecture 1 is up. Two more to go.</p>
+  <p>Lectures 1 and 2 are up. One more to go.</p>
 </div>
 
 <div class="notes-library">
+  <a class="notes-library-item"
+     href="../../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-ii-pnt-error-terms-and-halasz.pdf"
+     target="_blank" rel="noopener">
+    <div class="notes-library-icon">PDF</div>
+    <div class="notes-library-copy">
+      <div class="notes-library-meta">LECTURE 2 OF 3 · UPLOADED AUGUST 6, 2026 · 26 HANDWRITTEN PAGES</div>
+      <strong>The Pretentious Approach to Analytic Number Theory II</strong>
+      <p><em>PNT Error Terms and Halász’s Theorem.</em> PNT errors from the half plane to the right of 1, pole canceling functions, Perron transfer, infinite order estimates, the Vinogradov Korobov exponent, pretentious distance, Halász’s theorem, and the Selberg Delange model.</p>
+    </div>
+    <span class="notes-library-arrow">↗</span>
+  </a>
+
   <a class="notes-library-item"
      href="../../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf"
      target="_blank" rel="noopener">
