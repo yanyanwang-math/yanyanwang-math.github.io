@@ -19,15 +19,16 @@ This is where I collect analytic ways of thinking about arithmetic questions. I 
 ## Current study project
 
 <div class="course-project-card">
-  <div class="course-project-meta">IN PROGRESS · UPDATED JULY 29, 2026</div>
+  <div class="course-project-meta">IN PROGRESS · UPDATED AUGUST 6, 2026</div>
   <div class="course-project-title">IHÉS Summer School 2014: Analytic Number Theory</div>
   <p>
     I’m reading papers to keep up w/ the latest stuff, but also making sure my foundations stay solid.
     Every now n then, it’s nice to switch things up &amp; hear the masters teach math themselves.
-    The notes for the first of Andrew Granville’s three lectures are now finished and uploaded.
+    The notes for the first two of Andrew Granville’s three lectures are now finished and uploaded.
   </p>
   <div class="course-project-actions">
-    <a class="course-action primary" href="../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf" target="_blank" rel="noopener">Open Lecture 1 notes ↗</a>
+    <a class="course-action primary" href="../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-ii-pnt-error-terms-and-halasz.pdf" target="_blank" rel="noopener">Open Lecture 2 notes ↗</a>
+    <a class="course-action" href="../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-i-perrons-formula-revisited.pdf" target="_blank" rel="noopener">Open Lecture 1 notes ↗</a>
     <a class="course-action" href="ihes-summer-school-2014/">Open the study page</a>
     <a class="course-action" href="https://www.youtube.com/playlist?list=PLx5f8IelFRgEXleMSOdwidL2P5GTlL0uY" target="_blank" rel="noopener">Watch the playlist ↗</a>
   </div>
