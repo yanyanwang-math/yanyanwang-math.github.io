@@ -4,6 +4,23 @@ A home for the papers I’m reading, the ideas I pick up from talks, and the lon
 
 ## Latest upload
 
+### The Pretentious Approach to Analytic Number Theory II
+
+*PNT Error Terms and Halász’s Theorem*, from Andrew Granville’s IHÉS lecture series.
+
+<div class="note-upload-meta">
+  <span class="note-upload-badge">PDF · Lecture 2 of 3 · 26 handwritten pages</span>
+  <span class="note-upload-date">Uploaded August 6, 2026</span>
+</div>
+
+<a class="note-download-button"
+   href="../assets/notes/ihes-summer-school-2014/granville-pretentious-approach-ii-pnt-error-terms-and-halasz.pdf"
+   target="_blank" rel="noopener">
+  Open the handwritten notes <span>↗</span>
+</a>
+
+## Previous upload
+
 ### The Pretentious Approach to Analytic Number Theory I
 
 *Perron’s Formula Revisited*, from Andrew Granville’s IHÉS lecture series.
@@ -19,7 +36,7 @@ A home for the papers I’m reading, the ideas I pick up from talks, and the lon
   Open the handwritten notes <span>↗</span>
 </a>
 
-## Previous upload
+## Earlier upload
 
 ### Margulis Functions and Their Applications
 
